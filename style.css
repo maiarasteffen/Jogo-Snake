@@ -11,11 +11,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: black;
+    background: #ccc;
 }
 
 #game-board {
-    background: #ccc;
+    background: #000;
     height: 100vmin;
     width: 100vmin;
 
